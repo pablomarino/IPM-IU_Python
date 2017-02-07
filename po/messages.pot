@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-12 22:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: glade/main.glade.h:1
+msgid "Id"
+msgstr ""
+
+#: glade/main.glade.h:2
+msgid "Title"
+msgstr ""
+
+#: glade/main.glade.h:3
+msgid "Year"
+msgstr ""
+
+#: glade/main.glade.h:4
+msgid "Rating"
+msgstr ""
+
+#: glade/main.glade.h:5
+msgid "Title:"
+msgstr ""
+
+#: glade/main.glade.h:6
+msgid "Year:"
+msgstr ""
+
+#: glade/main.glade.h:7
+msgid "Rating:"
+msgstr ""
+
+#: glade/main.glade.h:8
+msgid "Error: "
+msgstr ""
+
+#: glade/main.glade.h:9
+msgid "There isn't selected film"
+msgstr ""
+
+#: glade/main.glade.h:10
+msgid "warning"
+msgstr ""
+
+#: glade/main.glade.h:11
+msgid "The film will be deleted. Do you wish continue?"
+msgstr ""

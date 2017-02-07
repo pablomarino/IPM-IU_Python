@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-18 20:19+0200\n"
+"PO-Revision-Date: 2016-10-18 20:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: glade/main.glade:72 glade/main.glade:262 glade/main.glade:392
+msgid "Id"
+msgstr "Id"
+
+#: glade/main.glade:86 glade/main.glade:276 glade/main.glade:406
+msgid "Title"
+msgstr "Title"
+
+#: glade/main.glade:100 glade/main.glade:290 glade/main.glade:420
+msgid "Year"
+msgstr "Year"
+
+#: glade/main.glade:114 glade/main.glade:304 glade/main.glade:434
+msgid "Rating"
+msgstr "Rating"
+
+#: glade/main.glade:128 glade/main.glade:356
+msgid "Viewed"
+msgstr "Viewed"
+
+#: glade/main.glade:228
+msgid "All"
+msgstr "All"
+
+#: glade/main.glade:486
+msgid "Pending"
+msgstr "Pending"
+
+#: glade/main.glade:532
+msgid "You may also enjoy"
+msgstr "You may also enjoy"
+
+#: glade/main.glade:551
+msgid "(movie info)"
+msgstr "(movie info)"
+
+#: glade/main.glade:672
+msgid "Recommendation based on"
+msgstr "Recommendation based on"
+
+#: glade/main.glade:687
+msgid "(viewed movie)"
+msgstr "(viewed movie)"
+
+#: glade/main.glade:727
+msgid "Error "
+msgstr "Error "
+
+#: glade/main.glade:728
+msgid "The selection is not valid"
+msgstr "The selection is not valid"
+
+#: glade/main.glade:776
+msgid "Warning"
+msgstr "Warning"
+
+#: glade/main.glade:777
+msgid ""
+"The selected register is going to be removed, this action is undoable. Do "
+"you wish to continue?"
+msgstr ""
+"The selected register is going to be removed, this action is undoable. Do "
+"you wish to continue?"
+
+#: glade/main.glade:954
+msgid "Title:"
+msgstr "Title:"
+
+#: glade/main.glade:980
+msgid "Year:"
+msgstr "Year:"
+
+#: glade/main.glade:1016
+msgid "Rating:"
+msgstr "Rating:"
+
+#: glade/main.glade:1056
+msgid "Have you already seen this film?"
+msgstr "Have you already seen this film?"
+
+#: glade/main.glade:1072
+msgid "No"
+msgstr "No"
+
+#: glade/main.glade:1073
+msgid "Yes"
+msgstr "Yes"

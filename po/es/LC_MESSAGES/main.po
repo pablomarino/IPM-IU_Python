@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-18 19:46+0200\n"
+"PO-Revision-Date: 2016-10-18 20:16+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.10\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: glade/main.glade:72 glade/main.glade:262 glade/main.glade:392
+msgid "Id"
+msgstr "Id"
+
+#: glade/main.glade:86 glade/main.glade:276 glade/main.glade:406
+msgid "Title"
+msgstr "Título"
+
+#: glade/main.glade:100 glade/main.glade:290 glade/main.glade:420
+msgid "Year"
+msgstr "Año"
+
+#: glade/main.glade:114 glade/main.glade:304 glade/main.glade:434
+msgid "Rating"
+msgstr "Valoración"
+
+#: glade/main.glade:128 glade/main.glade:356
+msgid "Viewed"
+msgstr "Vistas"
+
+#: glade/main.glade:228
+msgid "All"
+msgstr "Todas"
+
+#: glade/main.glade:486
+msgid "Pending"
+msgstr "Pendiente"
+
+#: glade/main.glade:532
+msgid "You may also enjoy"
+msgstr "Quizás te interese"
+
+#: glade/main.glade:551
+msgid "(movie info)"
+msgstr "(información de la película)"
+
+#: glade/main.glade:672
+msgid "Recommendation based on"
+msgstr "Recomendación basada en "
+
+#: glade/main.glade:687
+msgid "(viewed movie)"
+msgstr "(Película vista)"
+
+#: glade/main.glade:727
+msgid "Error "
+msgstr "Error"
+
+#: glade/main.glade:728
+msgid "The selection is not valid"
+msgstr "La selección no es válida"
+
+#: glade/main.glade:776
+msgid "Warning"
+msgstr "Aviso"
+
+#: glade/main.glade:777
+msgid ""
+"The selected register is going to be removed, this action is undoable. Do "
+"you wish to continue?"
+msgstr ""
+"Se va a eliminar el registro seleccionado, esta acción no se puede "
+"deshacer. ¿Desea continuar?"
+
+#: glade/main.glade:954
+msgid "Title:"
+msgstr "Título:"
+
+#: glade/main.glade:980
+msgid "Year:"
+msgstr "Año:"
+
+#: glade/main.glade:1016
+msgid "Rating:"
+msgstr "Valoración:"
+
+#: glade/main.glade:1056
+msgid "Have you already seen this film?"
+msgstr "¿Has visto esta película?"
+
+#: glade/main.glade:1072
+msgid "No"
+msgstr "No"
+
+#: glade/main.glade:1073
+msgid "Yes"
+msgstr "Si"
